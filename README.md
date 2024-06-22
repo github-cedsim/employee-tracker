@@ -10,8 +10,7 @@ A command-line application to manage a company's employee database, using Node.j
 - [Usage](#usage)
 - [Database Schema](#database-schema)
 - [Features](#features)
-- [License](#license)
-- [Contributing](#contributing)
+
 
 ## Installation
 
