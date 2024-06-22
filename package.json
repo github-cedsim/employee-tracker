@@ -10,8 +10,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "cli-table3": "^0.6.5",
     "dotenv": "^16.4.5",
-    "inquirer": "^8.2.4",
+    "inquirer": "^8.2.6",
     "mysql2": "^3.10.1"
   }
 }
