@@ -1,3 +1,8 @@
+-- Drop existing tables if they exist
+DROP TABLE IF EXISTS employee;
+DROP TABLE IF EXISTS role;
+DROP TABLE IF EXISTS department;
+
 -- Create the database
 CREATE DATABASE IF NOT EXISTS company_db;
 
